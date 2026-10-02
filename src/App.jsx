@@ -8,7 +8,7 @@ function App() {
     lian: {
       name: "Lian Grace Tero",
       initial: "L",
-      image: "../public/images/lian.jpg",
+      image: "/images/lian.jpg",
       role: "GROUP LEADER",
       address: "Brgy. Tagburos, Puerto Princesa City, Palawan",
       age: "18",
