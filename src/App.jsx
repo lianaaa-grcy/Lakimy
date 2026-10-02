@@ -8,7 +8,7 @@ function App() {
     lian: {
       name: "Lian Grace Tero",
       initial: "L",
-      image: "/images/lian.jpg",
+      image: "./public/images/lian.jpg",
       role: "GROUP LEADER",
       address: "Brgy. Tagburos, Puerto Princesa City, Palawan",
       age: "18",
@@ -27,7 +27,7 @@ function App() {
     asli: {
       name: "Malline-Jane F. Asli",
       initial: "A",
-      image: "/images/asli.jpg",
+      image: "./public/images/asli.jpg",
       role: "MEMBER",
       address: "Bancalaan, Balabac, Palawan",
       age: "20",
@@ -46,7 +46,7 @@ function App() {
     kim: {
       name: "Kim Jessa Sancho",
       initial: "K",
-      image: "/images/kim.jpg",
+      image: "./public/images/kim.jpg",
       role: "MEMBER",
       address: "Brgy Tanatanaon, Dumaran, Palawan",
       age: "19",
